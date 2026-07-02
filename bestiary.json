@@ -1,0 +1,210 @@
+[
+ {
+  "rule": "LR",
+  "states": 2,
+  "steps": 16000,
+  "visited": 8706,
+  "bbox": [
+   163,
+   135
+  ],
+  "escaped": false,
+  "px": [
+   845,
+   705
+  ],
+  "file": "art_classic.png"
+ },
+ {
+  "rule": "LLRL",
+  "states": 4,
+  "steps": 366188,
+  "visited": 99834,
+  "bbox": [
+   1156,
+   1251
+  ],
+  "escaped": true,
+  "px": [
+   1162,
+   1257
+  ],
+  "file": "art_latebloom.png"
+ },
+ {
+  "rule": "LLRR",
+  "states": 4,
+  "steps": 6000000,
+  "visited": 1506630,
+  "bbox": [
+   137,
+   168
+  ],
+  "escaped": false,
+  "px": [
+   715,
+   870
+  ],
+  "file": "art_cardioid.png"
+ },
+ {
+  "rule": "LLLRRLLL",
+  "states": 8,
+  "steps": 600000,
+  "visited": 75127,
+  "bbox": [
+   15,
+   18
+  ],
+  "escaped": false,
+  "px": [
+   861,
+   984
+  ],
+  "file": "art_cage8.png"
+ },
+ {
+  "rule": "RRRRRRRRLL",
+  "states": 10,
+  "steps": 600000,
+  "visited": 60097,
+  "bbox": [
+   13,
+   14
+  ],
+  "escaped": false,
+  "px": [
+   950,
+   1000
+  ],
+  "file": "art_cage10.png"
+ },
+ {
+  "rule": "RLLLRLLLLRRL",
+  "states": 12,
+  "steps": 4000000,
+  "visited": 1982943,
+  "bbox": [
+   1408,
+   1408
+  ],
+  "escaped": false,
+  "px": [
+   1414,
+   1414
+  ],
+  "file": "art_bigspread.png"
+ },
+ {
+  "rule": "LRRRRLLR",
+  "states": 8,
+  "steps": 3000000,
+  "visited": 905981,
+  "bbox": [
+   875,
+   878
+  ],
+  "escaped": false,
+  "px": [
+   881,
+   884
+  ],
+  "file": "art_spread8.png"
+ },
+ {
+  "rule": "LRLLLR",
+  "states": 6,
+  "steps": 3000000,
+  "visited": 752771,
+  "bbox": [
+   869,
+   869
+  ],
+  "escaped": false,
+  "px": [
+   875,
+   875
+  ],
+  "file": "art_spread6.png"
+ },
+ {
+  "rule": "LLRLL",
+  "states": 5,
+  "steps": 3000000,
+  "visited": 999056,
+  "bbox": [
+   711,
+   709
+  ],
+  "escaped": false,
+  "px": [
+   717,
+   715
+  ],
+  "file": "art_spread5.png"
+ },
+ {
+  "rule": "RRLRRRLLLR",
+  "states": 10,
+  "steps": 642497,
+  "visited": 80362,
+  "bbox": [
+   1284,
+   1268
+  ],
+  "escaped": true,
+  "px": [
+   1290,
+   1274
+  ],
+  "file": "art_latebloom10.png"
+ },
+ {
+  "rule": "LLRRLRLRRLLL",
+  "states": 12,
+  "steps": 176192,
+  "visited": 22336,
+  "bbox": [
+   1217,
+   1234
+  ],
+  "escaped": true,
+  "px": [
+   1223,
+   1240
+  ],
+  "file": "art_latebloom12.png"
+ },
+ {
+  "rule": "LRRRRRLLR",
+  "states": 9,
+  "steps": 1200000,
+  "visited": 337594,
+  "bbox": [
+   536,
+   536
+  ],
+  "escaped": false,
+  "px": [
+   542,
+   542
+  ],
+  "file": "art_guest_square.png"
+ },
+ {
+  "rule": "RRLLLRLLLRRR",
+  "states": 12,
+  "steps": 2000000,
+  "visited": 211271,
+  "bbox": [
+   662,
+   672
+  ],
+  "escaped": false,
+  "px": [
+   668,
+   678
+  ],
+  "file": "art_guest_triangle.png"
+ }
+]

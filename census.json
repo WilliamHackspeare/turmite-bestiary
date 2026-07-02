@@ -1,0 +1,572 @@
+{
+ "LR": {
+  "escaped": true,
+  "steps": 40165,
+  "visited": 22182,
+  "bbox": [
+   629,
+   599
+  ],
+  "class": "highway"
+ },
+ "LLR": {
+  "escaped": true,
+  "steps": 10770,
+  "visited": 4190,
+  "bbox": [
+   599,
+   601
+  ],
+  "class": "highway"
+ },
+ "LRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 138501,
+  "bbox": [
+   166,
+   126
+  ],
+  "class": "highway-ish"
+ },
+ "LRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 138047,
+  "bbox": [
+   136,
+   131
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLLR": {
+  "escaped": true,
+  "steps": 15550,
+  "visited": 4784,
+  "bbox": [
+   599,
+   601
+  ],
+  "class": "highway"
+ },
+ "LLRL": {
+  "escaped": true,
+  "steps": 308588,
+  "visited": 82734,
+  "bbox": [
+   556,
+   654
+  ],
+  "class": "highway-ish"
+ },
+ "LLRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 101394,
+  "bbox": [
+   62,
+   74
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 104422,
+  "bbox": [
+   129,
+   129
+  ],
+  "class": "highway-ish"
+ },
+ "LRLR": {
+  "escaped": true,
+  "steps": 40165,
+  "visited": 13189,
+  "bbox": [
+   629,
+   599
+  ],
+  "class": "highway"
+ },
+ "LRRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 106240,
+  "bbox": [
+   117,
+   136
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 104159,
+  "bbox": [
+   119,
+   115
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLLLR": {
+  "escaped": true,
+  "steps": 20330,
+  "visited": 4784,
+  "bbox": [
+   599,
+   601
+  ],
+  "class": "highway"
+ },
+ "LLLRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 83724,
+  "bbox": [
+   118,
+   114
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLLRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 80233,
+  "bbox": [
+   24,
+   25
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLRLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 132914,
+  "bbox": [
+   262,
+   260
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLRLR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 83989,
+  "bbox": [
+   133,
+   103
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLRRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 80278,
+  "bbox": [
+   27,
+   28
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLRRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 80382,
+  "bbox": [
+   35,
+   35
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRLLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 84250,
+  "bbox": [
+   124,
+   111
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRLLR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 86532,
+  "bbox": [
+   153,
+   146
+  ],
+  "class": "highway-ish"
+ },
+ "LRLRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 84162,
+  "bbox": [
+   142,
+   108
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRLRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 85484,
+  "bbox": [
+   153,
+   151
+  ],
+  "class": "highway-ish"
+ },
+ "LRRLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 80291,
+  "bbox": [
+   35,
+   29
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRLR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 85156,
+  "bbox": [
+   138,
+   142
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 80579,
+  "bbox": [
+   34,
+   32
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 84240,
+  "bbox": [
+   107,
+   122
+  ],
+  "class": "highway-ish"
+ },
+ "LLLLLR": {
+  "escaped": true,
+  "steps": 25110,
+  "visited": 4784,
+  "bbox": [
+   599,
+   601
+  ],
+  "class": "highway"
+ },
+ "LLLLRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 69990,
+  "bbox": [
+   113,
+   121
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLLLRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 66822,
+  "bbox": [
+   18,
+   22
+  ],
+  "class": "bounded"
+ },
+ "LLLRLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 70706,
+  "bbox": [
+   111,
+   120
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLLRLR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 69903,
+  "bbox": [
+   103,
+   106
+  ],
+  "class": "highway-ish"
+ },
+ "LLLRRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 66824,
+  "bbox": [
+   19,
+   20
+  ],
+  "class": "bounded"
+ },
+ "LLLRRR": {
+  "escaped": true,
+  "steps": 22729,
+  "visited": 5986,
+  "bbox": [
+   602,
+   601
+  ],
+  "class": "highway"
+ },
+ "LLRLLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 70452,
+  "bbox": [
+   117,
+   99
+  ],
+  "class": "highway-ish"
+ },
+ "LLRLLR": {
+  "escaped": true,
+  "steps": 10770,
+  "visited": 2993,
+  "bbox": [
+   599,
+   601
+  ],
+  "class": "highway"
+ },
+ "LLRLRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 70194,
+  "bbox": [
+   96,
+   109
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLRLRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 71332,
+  "bbox": [
+   114,
+   125
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLRRLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 66866,
+  "bbox": [
+   20,
+   22
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLRRLR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 70294,
+  "bbox": [
+   116,
+   112
+  ],
+  "class": "highway-ish"
+ },
+ "LLRRRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 70339,
+  "bbox": [
+   109,
+   103
+  ],
+  "class": "chaotic-dense"
+ },
+ "LLRRRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 66994,
+  "bbox": [
+   30,
+   32
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRLLLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 70317,
+  "bbox": [
+   104,
+   99
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRLLLR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 100984,
+  "bbox": [
+   319,
+   319
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRLLRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 73069,
+  "bbox": [
+   166,
+   126
+  ],
+  "class": "highway-ish"
+ },
+ "LRLLRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 72187,
+  "bbox": [
+   137,
+   159
+  ],
+  "class": "highway-ish"
+ },
+ "LRLRLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 71757,
+  "bbox": [
+   138,
+   148
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRLRLR": {
+  "escaped": true,
+  "steps": 40165,
+  "visited": 10123,
+  "bbox": [
+   629,
+   599
+  ],
+  "class": "highway"
+ },
+ "LRLRRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 70642,
+  "bbox": [
+   126,
+   101
+  ],
+  "class": "highway-ish"
+ },
+ "LRLRRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 70037,
+  "bbox": [
+   124,
+   100
+  ],
+  "class": "highway-ish"
+ },
+ "LRRLLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 66902,
+  "bbox": [
+   24,
+   28
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRLLR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 72174,
+  "bbox": [
+   127,
+   150
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRLRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 71371,
+  "bbox": [
+   116,
+   139
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRLRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 72727,
+  "bbox": [
+   136,
+   131
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRRLL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 72991,
+  "bbox": [
+   117,
+   114
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRRLR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 75575,
+  "bbox": [
+   128,
+   130
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRRRL": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 67130,
+  "bbox": [
+   28,
+   28
+  ],
+  "class": "chaotic-dense"
+ },
+ "LRRRRR": {
+  "escaped": false,
+  "steps": 400000,
+  "visited": 70484,
+  "bbox": [
+   101,
+   105
+  ],
+  "class": "highway-ish"
+ }
+}
